@@ -1,0 +1,9 @@
+Flask==2.3.2
+torch
+torchvision
+open-clip-torch
+numpy
+pandas
+scikit-learn
+Pillow
+pd
